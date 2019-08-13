@@ -3,11 +3,11 @@
  
  The data has been provided by Udacity partners at Bertelsmann Arvato Analytics, and represents a real-life data science task.
 
-# Visualizing the naturally missing data
+### Visualizing the naturally missing data
 
 ![Few graphs](https://user-images.githubusercontent.com/40944253/62909113-eb304a80-bd98-11e9-988a-525d2670a246.png)
 
-# Investigate the variance accounted for by each principal component.
+### Investigate the variance accounted for by each principal component.
 
 ![Few graphs](https://user-images.githubusercontent.com/40944253/62908966-2bdb9400-bd98-11e9-9475-2dc805a73bf7.png)
 
