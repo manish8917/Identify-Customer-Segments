@@ -12,3 +12,7 @@
 ![Few graphs](https://user-images.githubusercontent.com/40944253/62908966-2bdb9400-bd98-11e9-9475-2dc805a73bf7.png)
 
 ![Few graphs](https://user-images.githubusercontent.com/40944253/62908976-34cc6580-bd98-11e9-8eaf-462abb5703da.png)
+
+
+### Please Note:
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
